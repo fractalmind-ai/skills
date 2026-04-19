@@ -26,10 +26,15 @@ skills/
     wallet-mock/
   development/
     DESCRIPTION.md
+    plan-dog/
     predict-contracts/
     golang-web3-service/
     golang-integration-test/
+<<<<<<< HEAD
     high-fidelity-ui-replication/
+=======
+    react-frontend-dev/
+>>>>>>> upstream/main
 ```
 
 每个 category 目录下都有一个 `DESCRIPTION.md`，用于说明这一类 skill 的用途边界与适用场景。
@@ -69,10 +74,16 @@ git submodule update --init --recursive
 - `validation/wallet-mock` -> `fractalmind-ai/wallet-mock-skill`
 
 ### development
+- `development/plan-dog` -> `fractalmind-ai/plan-dog-skill`
 - `development/predict-contracts` -> `fractalmind-ai/predict-contracts-skill`
 - `development/golang-web3-service` -> `fractalmind-ai/golang-web3-service-skill`
 - `development/golang-integration-test` -> `fractalmind-ai/golang-integration-test-skill`
+<<<<<<< HEAD
 - `development/high-fidelity-ui-replication` -> `rosexrwa/high-fidelity-ui-replication-skill`
+=======
+- `development/react-frontend-dev` -> `fractalmind-ai/react-frontend-dev-skill`
+- `development/high-fidelity-ui-replication` -> `rosexrwa/high-fidelity-ui-replication-skill`
+>>>>>>> upstream/main
 
 ## 如何新增一个 skill
 
