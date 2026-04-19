@@ -43,3 +43,6 @@
 [submodule "development/golang-integration-test"]
 	path = development/golang-integration-test
 	url = git@github.com:fractalmind-ai/golang-integration-test-skill.git
+[submodule "development/high-fidelity-ui-replication"]
+	path = development/high-fidelity-ui-replication
+	url = git@github.com:rosexrwa/high-fidelity-ui-replication-skill.git
